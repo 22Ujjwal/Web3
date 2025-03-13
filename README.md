@@ -1,5 +1,5 @@
 # Web3
-## Blochcahain - [Currently] Learning about building blockcahin
+## Blockchain - Building my Crypt00
 
 I like learning about blockchain, it is my area of interest. --> I'm always down discussing web3
 - **Python**
